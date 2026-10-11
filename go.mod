@@ -11,7 +11,7 @@ require (
 	github.com/kdomanski/iso9660 v0.4.0
 	github.com/stretchr/testify v1.12.1
 	github.com/urfave/cli/v3 v3.14.0
-	golang.org/x/sys v0.48.0
+	golang.org/x/sys v0.49.0
 )
 
 require (
